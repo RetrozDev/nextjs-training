@@ -1,8 +1,20 @@
 .contact {
     min-width: 100vw;
     min-height: 100vh;
-    background-color: rgb(89, 89, 89);
+    background-color: rgb(31, 31, 31);
+    color: aliceblue;
 	display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
+
+    .links {
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+        width: 100%;
+        a {
+            color: gainsboro;
+        }
+    }
 }

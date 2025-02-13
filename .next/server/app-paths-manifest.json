@@ -2,5 +2,6 @@
   "/page": "app/page.js",
   "/cv/page": "app/cv/page.js",
   "/_not-found/page": "app/_not-found/page.js",
-  "/contact/page": "app/contact/page.js"
+  "/contact/page": "app/contact/page.js",
+  "/contact/[social]/page": "app/contact/[social]/page.js"
 }

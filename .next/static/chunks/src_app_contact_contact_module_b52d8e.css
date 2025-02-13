@@ -2,10 +2,23 @@
 .contact-module__swMWYG__contact {
   min-width: 100vw;
   min-height: 100vh;
-  background-color: #595959;
+  background-color: #1f1f1f;
+  color: #f0f8ff;
   display: flex;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
+}
+
+.contact-module__swMWYG__contact .contact-module__swMWYG__links {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  width: 100%;
+}
+
+.contact-module__swMWYG__contact .contact-module__swMWYG__links a {
+  color: #dcdcdc;
 }
 
 /*# sourceMappingURL=src_app_contact_contact_module_b52d8e.css.map*/

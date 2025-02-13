@@ -1,6 +1,6 @@
 {
   "pages": {
-    "/page": [
+    "/contact/[social]/page": [
       "static/chunks/src_app_default_c61370.css",
       "static/chunks/_7cb389._.js",
       "static/chunks/src_app_layout_tsx_61af54._.js",
